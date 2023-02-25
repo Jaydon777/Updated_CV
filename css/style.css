@@ -117,6 +117,7 @@ body {
   color: white;
 }
 
+
 #work {
   margin: 0%;
   line-height: 2;
@@ -151,7 +152,7 @@ body {
   color: white;
 }
 .second {
-  background-image: url(../images/city.jpg);
+  background-image: url(https://images.unsplash.com/photo-1527965641542-55606d2ca506?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80);
   background-attachment: fixed;
   min-height: 100vh;
   flex-direction: row;
@@ -297,6 +298,8 @@ body::-webkit-scrollbar-thumb {
 
   #about {
     padding: 0 5% 10%;
+    padding-left: 0px;
+    padding-right: 0px;
   }
 
   .dp-div {
